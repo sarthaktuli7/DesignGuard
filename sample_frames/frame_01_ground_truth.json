@@ -1,0 +1,116 @@
+[
+  {
+    "element_index": 0,
+    "bbox": [
+      40,
+      60,
+      160,
+      180
+    ],
+    "fill_color_rgb": [
+      255,
+      105,
+      180
+    ],
+    "spacing_before": null,
+    "corner_radius": 16,
+    "color_is_violation": true,
+    "spacing_is_violation": true,
+    "radius_is_violation": false
+  },
+  {
+    "element_index": 1,
+    "bbox": [
+      168,
+      60,
+      318,
+      180
+    ],
+    "fill_color_rgb": [
+      138,
+      43,
+      226
+    ],
+    "spacing_before": 8,
+    "corner_radius": 6,
+    "color_is_violation": true,
+    "spacing_is_violation": false,
+    "radius_is_violation": true
+  },
+  {
+    "element_index": 2,
+    "bbox": [
+      358,
+      60,
+      478,
+      180
+    ],
+    "fill_color_rgb": [
+      0,
+      206,
+      209
+    ],
+    "spacing_before": 40,
+    "corner_radius": 0,
+    "color_is_violation": true,
+    "spacing_is_violation": true,
+    "radius_is_violation": false
+  },
+  {
+    "element_index": 3,
+    "bbox": [
+      488,
+      60,
+      608,
+      180
+    ],
+    "fill_color_rgb": [
+      154,
+      140,
+      152
+    ],
+    "spacing_before": 10,
+    "corner_radius": 12,
+    "color_is_violation": false,
+    "spacing_is_violation": true,
+    "radius_is_violation": false
+  },
+  {
+    "element_index": 4,
+    "bbox": [
+      611,
+      60,
+      791,
+      180
+    ],
+    "fill_color_rgb": [
+      0,
+      206,
+      209
+    ],
+    "spacing_before": 3,
+    "corner_radius": 28,
+    "color_is_violation": true,
+    "spacing_is_violation": true,
+    "radius_is_violation": true
+  },
+  {
+    "element_index": 5,
+    "bbox": [
+      40,
+      220,
+      220,
+      340
+    ],
+    "fill_color_rgb": [
+      74,
+      78,
+      105
+    ],
+    "spacing_before": 40,
+    "corner_radius": 2,
+    "color_is_violation": false,
+    "spacing_is_violation": true,
+    "radius_is_violation": true
+  }
+]
